@@ -15,4 +15,6 @@ Interval based timer written in TypeScript
 - [] Add basic timer functionality
 - [] Ability to add multiple timers
 - [] Add sounds
+- [] Add themes
 - [] Add settings
+- [] Save timers in local storage
