@@ -12,9 +12,9 @@ Interval based timer written in TypeScript
 
 ## Todo
 
-- [] Add basic timer functionality
-- [] Ability to add multiple timers
-- [] Add sounds
+- [x] Add basic timer functionality
+- [x] Ability to add multiple timers
+- [x] Add sounds
 - [] Add themes
 - [] Add settings
 - [] Save timers in local storage
